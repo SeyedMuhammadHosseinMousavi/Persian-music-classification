@@ -24,7 +24,10 @@ The goal of this project is to classify Persian classical musical instruments us
 
 ## 📖 Abstract
 
+<div align="justify">
 Audio signal classification is an important domain in pattern recognition and signal processing. Musical instrument classification, a subset of this field, faces unique challenges due to the diverse characteristics of different instruments. This research focuses on the automatic classification of **Persian classical musical instruments** using a combination of extracted audio features. The system is designed to assist in educational and artistic settings, especially in Persian music studies.
+</div>
+
 ![image](https://github.com/user-attachments/assets/d0bab1d9-0f72-4732-8ca5-9082c02e95c3)
 
 The database includes recordings of seven Persian classical instruments:
