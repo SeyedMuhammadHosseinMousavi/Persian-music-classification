@@ -1,6 +1,8 @@
 # Persian Classical Music Instrument Recognition (PCMIR) Using a Novel Persian Music Database
 
+<div align="justify">
 This repository is dedicated to the implementation and study of **Persian Classical Music Instrument Recognition (PCMIR)**, based on the research paper:
+</div>
 
 > **Persian Classical Music Instrument Recognition (PCMIR) Using a Novel Persian Music Database**
 
