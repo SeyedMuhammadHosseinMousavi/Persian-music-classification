@@ -3,13 +3,17 @@
 This repository is dedicated to the implementation and study of **Persian Classical Music Instrument Recognition (PCMIR)**, based on the research paper:
 
 > **Persian Classical Music Instrument Recognition (PCMIR) Using a Novel Persian Music Database**
-> 
+
 <div align="justify">
 The goal of this project is to classify Persian classical musical instruments using advanced feature extraction, feature selection, and classification techniques. This repository showcases the innovative approach outlined in the paper.
 </div>
 
 - ### Please Cite:
+
+<div align="justify">
 - Mousavi, Seyed Muhammad Hossein, VB Surya Prasath, and Seyed Muhammad Hassan Mousavi. "Persian classical music instrument recognition (PCMIR) using a novel Persian music database." 2019 9th International Conference on Computer and Knowledge Engineering (ICCKE). IEEE, 2019.
+</div>
+
 - ### Link to the Paper:
 - https://ieeexplore.ieee.org/abstract/document/8965166
 - ### Link to the Dataset:
