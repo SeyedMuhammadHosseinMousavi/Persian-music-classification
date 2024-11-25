@@ -6,6 +6,12 @@ This repository is dedicated to the implementation and study of **Persian Classi
 
 The goal of this project is to classify Persian classical musical instruments using advanced feature extraction, feature selection, and classification techniques. This repository showcases the innovative approach outlined in the paper.
 
+- ### Please Cite:
+- Mousavi, Seyed Muhammad Hossein, VB Surya Prasath, and Seyed Muhammad Hassan Mousavi. "Persian classical music instrument recognition (PCMIR) using a novel Persian music database." 2019 9th International Conference on Computer and Knowledge Engineering (ICCKE). IEEE, 2019.
+- ### Link to the Paper:
+- https://ieeexplore.ieee.org/abstract/document/8965166
+- ### Link to the Dataset:
+- https://www.kaggle.com/datasets/hosseinmousavi/pcmir-database
 ---
 
 ## 📖 Abstract
@@ -31,6 +37,7 @@ The classification methodology involves extracting audio features like:
 - **Entropy Energy**
 
 These features are refined using **Fuzzy Entropy** for feature selection and classified using **Multi-Layer Neural Networks (MLNN)**.
+![image](https://github.com/user-attachments/assets/2fa76d4b-ff9a-49e8-b97e-27bea2f07a57)
 
 ---
 
@@ -41,7 +48,6 @@ These features are refined using **Fuzzy Entropy** for feature selection and cla
 3. **Feature Selection**: Implementation of **Fuzzy Entropy** to identify the most relevant features.
 4. **Classification**: Leveraging MLNN for instrument classification.
 5. **Performance Evaluation**: Achieving robust classification results for educational and artistic use cases.
-![image](https://github.com/user-attachments/assets/ae56dbd6-2479-4aef-9c27-5a4acbd6d783)
 
 ---
 
@@ -64,6 +70,7 @@ A unique Persian music database was created for this research. The dataset inclu
 | Tonbak       | 110     | 5–10           | Closed and Open Spaces          |
 | Setar        | 89      | 5–10           | Closed and Open Spaces          |
 | Ud           | 93      | 5–10           | Closed and Open Spaces          |
+
 ![image](https://github.com/user-attachments/assets/dff041d2-aca3-4b7c-a22c-2c547920453f)
 
 ---
@@ -85,6 +92,8 @@ A unique Persian music database was created for this research. The dataset inclu
    - Trained a **Multi-Layer Neural Network (MLNN)** for instrument classification.
 5. **Evaluation**:
    - Validation using confusion matrix and classification accuracy.
+
+![image](https://github.com/user-attachments/assets/ae56dbd6-2479-4aef-9c27-5a4acbd6d783)
 
 ---
 
@@ -122,11 +131,16 @@ The research suggests the following improvements:
 If you use this project or find it helpful, please cite the original paper:
 
 ```bibtex
-@inproceedings{pcmirt2019,
-  author    = {Seyed Muhammad Hossein Mousavi and V. B. Surya Prasath and Seyed Muhammad Hassan Mousavi},
-  title     = {Persian Classical Music Instrument Recognition (PCMIR) Using a Novel Persian Music Database},
-  booktitle = {9th International Conference on Computer and Knowledge Engineering (ICCKE 2019)},
-  year      = {2019},
-  pages     = {122-130}
+@inproceedings{mousavi2019persian,
+  title={Persian classical music instrument recognition (PCMIR) using a novel Persian music database},
+  author={Mousavi, Seyed Muhammad Hossein and Prasath, VB Surya and Mousavi, Seyed Muhammad Hassan},
+  booktitle={2019 9th International Conference on Computer and Knowledge Engineering (ICCKE)},
+  pages={122--130},
+  year={2019},
+  organization={IEEE}
 }
+
+- ### DOI:
+- https://doi.org/10.1109/ICCKE48569.2019.8965166
+
 
